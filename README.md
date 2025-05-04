@@ -31,16 +31,29 @@ TamperMonkey, Chrome Developer Tools, Database Management
 
 ---
 
-## Featured Project: BedTracking Automation System
+## Featured Projects
 
-*Self-initiated development project demonstrating technical capabilities and process improvement*
+### Dark Mode PDF Converter
+*CS50 Final Project - Web Application*
 
-- Designed and built a full-stack automation system using JavaScript that streamlines hospital navigation
-- Implemented data integration techniques to create a comprehensive hospital database
-- Developed an intuitive user interface with autocomplete functionality to reduce input errors
-- Created a one-click navigation system that improves access to specific hospital locations
+- Developed a browser-based tool that transforms standard PDFs into dark mode for improved nighttime reading
+- Implemented color inversion algorithms and 180-degree hue rotation using pure JavaScript to reduce eye strain
+- Created an intuitive user interface with drag-and-drop functionality and instant preview capabilities
+- Applied responsive design principles to ensure functionality across multiple devices and screen sizes
+- Technologies used: JavaScript, HTML5, CSS3, PDF.js
 
-[**View Project Demonstration**](https://www.youtube.com/watch?v=XsWKpcahY_4)
+[**View Project Repository**](https://www.youtube.com/watch?v=c1ApLNgK8oU)
+
+### Google Search Clone
+*CS50 Web Programming Project*
+
+- Engineered a replications of Google's search interfaces (standard, image, and advanced search)
+- Built fully-functional search pages that redirect queries to actual Google search results
+- Implemented responsive design techniques to match Google's layout across various viewport sizes
+- Constructed advanced search form with multiple parameters matching Google's complex filtering options
+- Technologies used: HTML5, CSS3, Flexbox, CSS Grid
+
+[**View Project Repository**](https://www.youtube.com/watch?v=D4mck5haE9Y)
 
 ---
 
