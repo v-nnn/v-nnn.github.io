@@ -78,6 +78,9 @@ Certificate of Completion
 **GitHub Foundations**  
 Certificate of Completion
 
+**Simon Fraser University - Computing Science Certificate**  
+In Progress
+
 **Harvard CS50 Web Programming with Python and JavaScript**  
 In Progress
 
