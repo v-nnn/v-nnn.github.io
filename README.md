@@ -41,7 +41,7 @@ TamperMonkey, Chrome Developer Tools, Database Management
 - Applied responsive design principles to ensure functionality across multiple devices and screen sizes
 - Technologies used: JavaScript, HTML5, CSS3, PDF.js
 
-[**View Project Repository**](https://www.youtube.com/watch?v=c1ApLNgK8oU)
+[![Dark Mode PDF Demo](https://img.shields.io/badge/📹_Demo-Dark_Mode_PDF-red?style=for-the-badge)](https://www.youtube.com/watch?v=c1ApLNgK8oU)
 
 ### Google Search Clone
 *CS50 Web Programming Project*
@@ -52,7 +52,7 @@ TamperMonkey, Chrome Developer Tools, Database Management
 - Constructed advanced search form with multiple parameters matching Google's complex filtering options
 - Technologies used: HTML5, CSS3, Flexbox, CSS Grid
 
-[**View Project Repository**](https://www.youtube.com/watch?v=D4mck5haE9Y)
+[![Google Clone Demo](https://img.shields.io/badge/📹_Demo-Google_Clone-blue?style=for-the-badge)](https://www.youtube.com/watch?v=D4mck5haE9Y)
 
 ---
 
