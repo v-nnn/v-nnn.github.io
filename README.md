@@ -5,7 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-vishav.nandha%40fraserhealth.ca-blue)](mailto:vishav.nandha@fraserhealth.ca)
 [![Phone](https://img.shields.io/badge/Phone-604--614--4884-green)](tel:604-614-4884)
 [![Location](https://img.shields.io/badge/Location-Surrey%2C%20BC-orange)](https://goo.gl/maps/YOUR_LOCATION)
-[![Project Demo](https://img.shields.io/badge/Project-BedTracking%20Demo-red)](https://www.youtube.com/watch?v=XsWKpcahY_4)
 
 ---
 
