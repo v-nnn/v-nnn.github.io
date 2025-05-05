@@ -84,17 +84,17 @@ TamperMonkey, Chrome Developer Tools, Database Management
 **Simon Fraser University**  
 Bachelor's Degree | Major in Criminology, Minor in Business
 
-**Simon Fraser University - Computing Science Certificate**  
-In Progress
-
 **Harvard CS50's Introduction to Computer Science**  
 Certificate of Completion
 
-**Harvard CS50 Web Programming with Python and JavaScript**  
-In Progress
-
 **GitHub Foundations**  
 Certificate of Completion
+
+**Simon Fraser University - Computing Science Certificate**  
+In Progress
+
+**Harvard CS50 Web Programming with Python and JavaScript**  
+In Progress
 
 ---
 
